@@ -1,0 +1,6 @@
+{
+  "extends": "fanmiles",
+  "rules": {
+    "import/no-extraneous-dependencies": 0
+  }
+}
